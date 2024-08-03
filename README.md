@@ -1,19 +1,13 @@
-\begin{center}
-
 # `biblio` - A Library Management System
 
 ---
 
-\vspace{2cm}
 
 ## Abstract
 
 Biblio - A Library Management System project aims to create a comprehensive solution for library management, targeting the needs of a librarian. This system facilitates the efficient handling of book inventories, including the addition and consolidation of new book orders. It allows for effortless filtering of books by various attributes such as author, publisher, and genre. The system streamlines the borrowing and returning process, ensures meticulous tracking of transactions, and handles fines for overdue books. Additionally, it maintains accurate records of authors, publishers, and patrons, while providing real-time library statistics. The application is designed to be user-friendly and supports containerized deployment for seamless integration and operation.
 
 ============================================================
-
-<br>
-<br>
 
 ### Requirement Collection
 
