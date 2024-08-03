@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+datetime
+sqlalchemy
+pydantic
+apscheduler
+uvicorn
+pydantic[email]
